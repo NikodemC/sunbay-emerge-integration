@@ -365,7 +365,3 @@ These depend on how the agent is implemented and on each ERP; we'll resolve them
 12. **Formats** - Confirm UTF-8, dot decimals, ISO-8601, phone with country code can be guaranteed by the agent (§6).
 13. **Authentication** - Preferred method (§7.2) and feasibility from the on-premise environment.
 14. **Volume** - Expected daily and peak invoice counts per client.
-
----
-
-*Prepared by Sunbay for the Emerge integration. Questions: integrations@sunbay.io*
