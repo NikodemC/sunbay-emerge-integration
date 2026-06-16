@@ -1,0 +1,11 @@
+title: ERP to Sunbay Collection Data Ingestion
+description: Integration Guide for Emerge
+theme: jekyll-theme-cayman
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  hard_wrap: false
+
+show_downloads: false
